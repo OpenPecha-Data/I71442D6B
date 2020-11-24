@@ -3,5 +3,22 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG25343
   title: ཀུན་མཁྱེན་ཕར་ཕྱིན་མཐའ་དཔྱོད།
-  volume: ''
+  volume:
+    4545a28f87fd454bb9c0256a1387d271:
+      image_group_id: I1KG25345
+      title: Volume 1 of kun mkhyen phar phyin mtha' dpyod/
+      volume_number: 1
+      total_pages: 632
+    a56846d27a0e49848711fb0f674b113d:
+      image_group_id: I1KG25346
+      title: Volume 2 of kun mkhyen phar phyin mtha' dpyod/
+      volume_number: 2
+      total_pages: 590
   author: ''
+ebook_metadata:
+  title: ཀུན་མཁྱེན་ཕར་ཕྱིན་མཐའ་དཔྱོད།
+  author: ''
+  sku: P007058
+  cover: cover.jpg
+  layers:
+  - pagination
