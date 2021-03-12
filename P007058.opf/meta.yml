@@ -5,16 +5,18 @@ source_metadata:
   title: ཀུན་མཁྱེན་ཕར་ཕྱིན་མཐའ་དཔྱོད།
   author: ''
   volumes:
-    c768f76cda4a47b79ae20b679dc23603:
+    4545a28f87fd454bb9c0256a1387d271:
       image_group_id: I1KG25345
-      title: ''
+      title: Volume 1 of kun mkhyen phar phyin mtha' dpyod/
       volume_number: 1
       total_pages: 632
-    04b40b4623894d2eac91ef9b73d85f25:
+      base_file: v001.txt
+    a56846d27a0e49848711fb0f674b113d:
       image_group_id: I1KG25346
-      title: ''
+      title: Volume 2 of kun mkhyen phar phyin mtha' dpyod/
       volume_number: 2
       total_pages: 590
+      base_file: v002.txt
 ebook_metadata:
   title: ཀུན་མཁྱེན་ཕར་ཕྱིན་མཐའ་དཔྱོད།
   author: ''
